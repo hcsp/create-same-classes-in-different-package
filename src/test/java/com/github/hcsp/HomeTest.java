@@ -2,7 +2,7 @@ package com.github.hcsp;
 
 import org.junit.jupiter.api.Test;
 
-class HomeTest {
+public class HomeTest {
     @Test
     public void homeHasTwoKindsOfCat() {
         Home home = new Home();
