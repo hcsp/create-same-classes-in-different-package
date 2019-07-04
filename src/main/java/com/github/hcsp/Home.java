@@ -1,4 +1,4 @@
-package com.github.hcsp;;
+package com.github.hcsp;
 
 import com.github.hcsp.pet1.Cat;
 public class Home<com> {
